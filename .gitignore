@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# ダウンロード成果物・変換成果物
+*.epub
+*.log
+
+# macOS
+.DS_Store
